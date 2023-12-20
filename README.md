@@ -1,0 +1,2 @@
+The app.js file consists the codebase which takes the inputs from the csv file. The csv file has the names of the files. These inputs are then compared to the folder that consists n number of files and checks if any of the names are not present in the folder.
+If in case there is any file that is not available in the given folder with the list, it is consoled resulting in generating the list of unidentified file.
